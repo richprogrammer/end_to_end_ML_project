@@ -3,7 +3,7 @@
 ## Checklist
 
 1. Update config.yaml 
-2. Update schema.yaml skip for 01_data
+2. Update schema.yaml skip for 01_data, back for 04_model
 3. Update params.yaml skip for 01_data
 4. Update the entity
 5. Update the configuration manager in src config

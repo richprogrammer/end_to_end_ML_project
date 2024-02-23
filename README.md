@@ -17,3 +17,12 @@ MLFLOW_TRACKING_URI=https://dagshub.com/richardleelovestoprogram/end_to_end_ML_p
 MLFLOW_TRACKING_USERNAME=richardleelovestoprogram \
 MLFLOW_TRACKING_PASSWORD=1182d1ff595c120dc07267b227cdcc2ddc5cb2b0 \
 python script.py
+
+
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/richardleelovestoprogram/end_to_end_ML_project.mlflow
+
+export MLFLOW_TRACKING_USERNAME=richardleelovestoprogram 
+
+export MLFLOW_TRACKING_PASSWORD=1182d1ff595c120dc07267b227cdcc2ddc5cb2b0
+```

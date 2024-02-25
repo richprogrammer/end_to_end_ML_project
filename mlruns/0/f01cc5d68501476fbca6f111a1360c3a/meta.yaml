@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Richard/desktop/cloned/end_to_end_ML_project/mlruns/0/f01cc5d68501476fbca6f111a1360c3a/artifacts
+end_time: 1708894135240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f01cc5d68501476fbca6f111a1360c3a
+run_name: kindly-fish-125
+run_uuid: f01cc5d68501476fbca6f111a1360c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708894132078
+status: 3
+tags: []
+user_id: Richard

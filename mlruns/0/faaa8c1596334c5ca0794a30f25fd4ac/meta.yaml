@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Richard/desktop/cloned/end_to_end_ML_project/mlruns/0/faaa8c1596334c5ca0794a30f25fd4ac/artifacts
+end_time: 1708882085929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faaa8c1596334c5ca0794a30f25fd4ac
+run_name: amusing-hen-918
+run_uuid: faaa8c1596334c5ca0794a30f25fd4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708882083069
+status: 3
+tags: []
+user_id: Richard
